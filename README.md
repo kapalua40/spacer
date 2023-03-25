@@ -99,10 +99,12 @@ python3 spacer.py -A autolinks.txt -I kapalua -F Noire
 ```bash
 python3 spacer.py -A autolinks.txt -I kapalua --comm -P mathematics
 ```
+---
 #### Файлы из сообщества
 ```bash
 $p $e -A $f -I $u --comm -F mathematics
 ```
+---
 #### Скачиваем закладки у пользователя под которым зашли на сайт
 ```bash
 $p $e -A $f -I $u -b
